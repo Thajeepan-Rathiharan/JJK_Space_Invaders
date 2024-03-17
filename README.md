@@ -15,10 +15,10 @@ You use the arrow keys on your keyboard to move Yuji left and right to manouver 
 Game start up screen
 ![Game start up](img/game_start.png)
 
-Attack animation
+Attack animation from Yuji
 ![Attack animation](img/attack_animation.png)
 
-Point increasing
+Points increasing after killing an enemy
 ![Point increasing](img/point_increasing.png)
 
 Game over screen
