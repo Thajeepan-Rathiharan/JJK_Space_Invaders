@@ -13,16 +13,16 @@ You use the arrow keys on your keyboard to move Yuji left and right to manouver 
 
 ## Demo
 Game start up screen
-[Game start up](img/game_start.png)
+![Game start up](img/game_start.png)
 
 Attack animation
-[Attack animation](img/attack_animation.png)
+![Attack animation](img/attack_animation.png)
 
 Point increasing
-[Point increasing](img/point_increasing.png)
+![Point increasing](img/point_increasing.png)
 
 Game over screen
-[Game over screen](img/game_over.png)
+![Game over screen](img/game_over.png)
 
 ## Outcome
 I have proven to myself that I can understand Python to the ability that I can create a space invaders game in a unique style using anime characters and can understand the functions used by knowing what each part of the code does.
